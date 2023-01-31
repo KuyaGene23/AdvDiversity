@@ -1,0 +1,39 @@
+.mentor-detail-image {
+   object-fit: cover;
+   width: 150px;
+   height: 150px;
+}
+
+.mentor-pill {
+   color: black;
+   font-weight: 700;
+   padding: 4px;
+   padding-right: 10px;
+   padding-left: 10px;
+   margin-left: 2px;
+   margin-right: 2px;
+   border-radius: 20px;
+   display: inline-block;
+}
+
+.mentor-detail-card {
+   margin-top: 50px;
+   margin-bottom: 50px;
+   padding: 20px;
+}
+
+.option-color-0 {
+   background: rgb(250, 92, 124);
+}
+
+.option-color-2 {
+   background: #ffbc00;
+}
+
+.option-color-1 {
+   background: #0acf97;
+}
+
+.option-color-3 {
+   background: rgb(57, 175, 209);
+}
